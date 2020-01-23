@@ -53,12 +53,3 @@ _기울어진다_
 	public static void main
 ```
 
-{% highlight java %}
-public static void main
-{
-  int act = 1;
-  String wal = "nono";
-}
-{% endhighlight %}
-
-
